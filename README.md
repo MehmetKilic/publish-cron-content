@@ -1,8 +1,8 @@
 
 /* 
-		Author -> Mehmet Kılıç | mail@mehmetkilic.com.tr
-		Create -> 18.11.2014   | 10:39
-		Web    -> www.mehmetkilic.com.tr   
+	- Author -> Mehmet Kılıç | mail@mehmetkilic.com.tr
+	- Create -> 18.11.2014   | 10:39
+	- Web    -> www.mehmetkilic.com.tr   
 */
 
 Parametreler
