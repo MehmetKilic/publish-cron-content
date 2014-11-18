@@ -1,15 +1,15 @@
 
 /* 
-	- Author -> Mehmet Kılıç | mail@mehmetkilic.com.tr
-	- Create -> 18.11.2014   | 10:39
-	- Web    -> www.mehmetkilic.com.tr   
+- Author -> Mehmet Kılıç | mail@mehmetkilic.com.tr
+- Create -> 18.11.2014   | 10:39
+- Web    -> www.mehmetkilic.com.tr   
 */
 
 Parametreler
 
-$publish_count = 'Yayınlanacak yazı adedi';
-$start_date    = 'Yazının yayınlanmaya başlayacağı tarih';
-$end_date      = 'Yazının yayınlanma işleminin biteceği tarih';
+- $publish_count = 'Yayınlanacak yazı adedi';
+- $start_date    = 'Yazının yayınlanmaya başlayacağı tarih';
+- $end_date      = 'Yazının yayınlanma işleminin biteceği tarih';
 
 Ne İçin Yapıldı ?
 
